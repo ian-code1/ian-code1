@@ -1,11 +1,12 @@
 👋 Hello, I'm Ian Kariuki
 
-🎓 Math and Computer Science Student at Taita Taveta University | 💻 Full-Stack Developer | ☕ Coffee Lover | 🐶 Dog Enthusiast
+🎓 Bsc Mathematics and Computer Science | 💻 Full-Stack Developer | ☕ Coffee Lover | 🐶 Dog Enthusiast
 
 🌟 About Me:
-- 📚 Studying Mathematics and Computer Science at Taita Taveta University.
+- 📚 Bsc Mathematics and computer science
 - 🖥️ Proficient in HTML, CSS, and JavaScript, with a passion for web development.
 - 🐍 Currently diving deep into the world of Python.
+-  📱Android, java, kotlin.
 - 🚀 Committed to crafting elegant solutions and fostering innovation.
 
 👨‍💻 Open Source Contributor:
