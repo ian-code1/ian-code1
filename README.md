@@ -5,7 +5,8 @@
 🌟 About Me:
 - 📚 Bsc Mathematics and computer science
 - 🖥️ Proficient in HTML, CSS, and JavaScript, with a passion for web development.
-- 🐍 Python, Numpy, Pandas, Django.
+- 🐍 Python: Numpy, Pandas, Flask, Django.
+- 🧙🏽‍♂️ AI/ML
 -  📱Android, java, kotlin.
 - 🚀 Committed to crafting elegant solutions and fostering innovation.
 
